@@ -53,12 +53,13 @@ I also participate in open-source communities by reporting issues and suggesting
 <!--- Rust (Introductory)-->
 
 **AI Developer Tools**
-- Agy CLI
+- Codex
+- Claude Code
 - OpenCode
 - Hermes
 - Antigravity
 - Zed
-- 
+ 
 **Networking & Cybersecurity**
 - Nmap
 - Wireshark
