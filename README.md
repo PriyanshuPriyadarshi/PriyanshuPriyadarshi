@@ -26,7 +26,7 @@ I'm especially interested in understanding how tools work, testing new technolog
 ## 🛠️ Technologies & Tools
 
 **Operating Systems**
-- Debian, Arch Linux, Fedora
+- Debian, Fedora, Arch Linux, Windows
 
 **Desktop Environments**
 - COSMIC, KDE Plasma, GNOME, XFCE, Cinnamon
