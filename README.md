@@ -1,66 +1,91 @@
 
-# Hi, I'm Priyanshu Priyadarshi 👋
+<h1 align="center">Hi, I'm Priyanshu Priyadarshi 👋</h1>
 
-### MS-AICS Student | Linux & Open-Source Enthusiast | Exploring AI and Cybersecurity
+<p align="center">
+  <strong>MS-AICS Student | Linux & Open Source | AI Tools | Cybersecurity</strong>
+</p>
 
-I'm a student interested in Linux, open-source software, AI-powered tools, and cybersecurity.
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-333333?logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white" />
+</p>
 
-I enjoy exploring open-source projects, installing and testing developer tools, troubleshooting Linux applications, and learning how different technologies work.
+---
 
-### Interests
+### 👨‍💻 About Me
 
-- 🐧 Linux and open-source software
-- 🤖 AI tools, CLI agents and agentic workflows
+I'm an MS-AICS student interested in Linux, open-source software,
+AI-powered developer tools and cybersecurity.
+
+I enjoy exploring popular GitHub projects, experimenting with
+CLI tools, troubleshooting Linux applications and learning
+how software works.
+
+I'm particularly interested in:
+- 🐧 Linux and open-source ecosystems
+- 🤖 AI CLI tools and agent workflows
 - 🔐 Cybersecurity and networking
-- 🧪 Software testing and application troubleshooting
-- 🛠️ Linux desktop environments and system configuration
+- 🧪 Application testing and troubleshooting
 
-### Technologies & Tools
+### 🛠️ Technologies & Tools
 
 **Operating Systems**
-- Debian, Fedora, Arch Linux
-- COSMIC, KDE Plasma, GNOME, XFCE, Cinnamon
 
-**Linux & Development Tools**
-- Bash, Git, GitHub
-- SSH, systemd, journalctl
-- Podman, Distrobox
-- VirtualBox, VMware
+`Debian` `Arch Linux` `Fedora`
 
-**AI Development Tools**
-- Gemini CLI
-- OpenCode
-- Hermes
-- Antigravity
+**Desktop Environments**
 
-**Cybersecurity & Networking**
-- Nmap
-- Wireshark
-- TryHackMe (learning)
+`COSMIC` `KDE Plasma` `GNOME` `XFCE` `Cinnamon`
 
-### Selected Projects
+**Linux & Development**
 
-- [PDF Duplex & Booklet Studio](https://github.com/PriyanshuPriyadarshi/pdf-duplex-app)
-  - A Linux desktop utility for manual duplex printing and booklet creation.
+`Bash` `Git` `GitHub` `SSH` `systemd`
 
-- [COSMIC Desktop Theme](https://github.com/PriyanshuPriyadarshi/cosmic-desktop-theme)
-  - Theme configuration files for the COSMIC desktop environment.
+**Containers & Virtualization**
 
-### Open Source
+`Podman` `Distrobox` `VirtualBox` `VMware`
 
-I participate in open-source communities by exploring projects,
-sharing feedback, reporting issues and suggesting improvements.
+**AI Developer Tools**
 
-### Currently Learning
+`Gemini CLI` `OpenCode` `Hermes` `Antigravity`
+
+**Networking & Security**
+
+`Nmap` `Wireshark` `TryHackMe`
+
+### 🚀 Selected Projects
+
+**PDF Duplex & Booklet Studio**
+
+An AI-assisted Linux desktop application for manual
+duplex printing and booklet creation.
+
+[View repository →](https://github.com/PriyanshuPriyadarshi/pdf-duplex-app)
+
+**COSMIC Desktop Theme**
+
+Desktop theme configuration and customization for COSMIC.
+
+[View repository →](https://github.com/PriyanshuPriyadarshi/cosmic-desktop-theme)
+
+### 🌱 Currently Learning
 
 - Python programming
 - Networking fundamentals
 - Cybersecurity
 - Software testing and QA
-- AI-powered development workflows
+
+### 🌍 Open Source
+
+I participate in open-source communities by exploring
+projects, reporting issues and suggesting improvements.
 
 ---
 
-📍 India
-
-🔗 GitHub: https://github.com/PriyanshuPriyadarshi
+<p align="center">
+  <i>Learning by exploring, testing and building.</i>
+</p>
